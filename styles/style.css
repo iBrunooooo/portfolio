@@ -1,0 +1,30 @@
+@import url('reset.css');
+@import url('vars.css');
+@import url('header.css');
+@import url('main.css');
+@import url('footer.css');
+
+body {
+    width: 100vw;
+    font-family: var(--fonte-principal);
+    font-size: 1rem;
+    background-color: var(--color-one-light);
+    text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.hidden {
+    display: none;
+}
+
+@media screen and (min-width: 1024px) {
+    
+    .hidden {
+        display: block;
+    }
+
+}
