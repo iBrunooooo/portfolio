@@ -1,0 +1,1 @@
+Esse portfólio é resultado do desafio do projeto ONE (Oracle Next Education), e tem como objetivo apresentar um pouco dos conhecimentos e habilidades que adquiri nessa jornada em busca de me tornar um desenvolvedor Front-End.
